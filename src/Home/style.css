@@ -1,0 +1,33 @@
+.home-section{
+    display: flex;
+    flex-direction: row;
+}
+.buying-buttons{
+    display: flex;
+    flex-direction: row;
+}
+.home-section img{
+    width: 80%;
+    margin-left: 50%;
+}
+.home-section-2{
+    margin-left: 10%;
+}
+.home-section-2 h1{
+    color: crimson;
+    font-weight: 800;
+}
+.buttons{
+    margin-right: 20%;
+    background-color: crimson;
+    color: white;
+    border-radius: 16px;
+}
+.about-delivery{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+}
+.about-delivery-1{
+    padding: 10px;
+}

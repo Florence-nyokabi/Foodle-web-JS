@@ -1,0 +1,15 @@
+.delivery-categories{
+    margin-left: 10%;
+}
+.best-deliveries{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+}
+
+.best-deliveries img{
+    width: 80%;
+}
+.delivered{
+    color: crimson;
+}

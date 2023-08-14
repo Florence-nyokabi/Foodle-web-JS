@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    margin-left: 10%;
+    padding: 12px
+}
+.footer-section{
+    padding: 20px;
+}
+h2{
+    color: crimson;
+}

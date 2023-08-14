@@ -1,0 +1,35 @@
+nav{
+    background-color: #F2F2F2;
+    padding: 20px;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 10%;
+    list-style-type: none;
+}
+
+li{
+    margin-right: 10%;
+}
+.nav-list{
+    display:flex;
+    margin-top: 1%;
+    margin-left: 20%;
+    justify-content: space-between;
+}
+.login-and-signup{
+    display: flex;
+    /* margin-left: 40%; */
+    color: crimson;
+}
+
+button {
+    border-color: crimson;
+    border-radius: 4px;
+    padding: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 6%;
+}
